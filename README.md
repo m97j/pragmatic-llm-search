@@ -1,5 +1,10 @@
 # 📘 pragmatic-llm-search (검색+요약 LLM 챗봇) - 진행 중
 
+[![HF Space](https://img.shields.io/badge/HF%20Spaces(pragmatic--search)-Live-blue)](https://huggingface.co/spaces/m97j/pragmatic-llm-search)
+[![HF Model](https://img.shields.io/badge/HF%20Model-pragmatic--search-ff69b4)](https://huggingface.co/m97j/pragmatic-search)
+[![Colab](https://img.shields.io/badge/Colab-Notebook-yellow)](https://colab.research.google.com/drive/1FT-PxsCi1FDLMmCELw3S0_gHHNrwNYN0?usp=sharing)
+
+
 ## 프로젝트 개요
 7B~10B급 오픈소스 LLM을 기반으로 **실시간 검색(RAG) + 요약 + 번역** 기능을 제공하는 AI 검색·요약 챗봇입니다.  
 - 사용자는 자연어로 질문 → 모델이 검색 쿼리로 변환 → 검색 결과를 종합해 답변 생성  
