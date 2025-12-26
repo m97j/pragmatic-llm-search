@@ -1,4 +1,4 @@
-# 📘 pragmatic-llm-search (Search + Summary LLM Chatbot) - mvp
+# 📘 pragmatic-llm-search - mvp
 
 [![HF Space](https://img.shields.io/badge/HF%20Spaces(pragmatic--search)-Live-blue)](https://huggingface.co/spaces/m97j/pragmatic-llm-search)
 [![HF Model](https://img.shields.io/badge/HF%20Model-pragmatic--search-ff69b4)](https://huggingface.co/m97j/pragmatic-search)
